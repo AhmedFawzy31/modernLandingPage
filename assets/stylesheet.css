@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Helvetica Neue";
+  src: url("helveticaneue-medium.woff2") format("woff2"),
+    url("helveticaneue-medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  src: url("helveticaneue-bold.woff2") format("woff2"),
+    url("helveticaneue-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Helvetica Neue";
+  src: url("helveticaneue.woff2") format("woff2"),
+    url("helveticaneue.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
